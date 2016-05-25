@@ -49,6 +49,7 @@ Temporary Items
 # Files and Directories that is not necessary on Unity & Visual Studio
 Library
 Temp
+Builds
 *.pidb
 *.unityproj
 *.sln
