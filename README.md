@@ -2,4 +2,4 @@
 
 The example Unity project.
 
-In Unity, You can build the game with Assets\\_Scenes\\MiniGame.
+In Unity, You can build the game with Assets\\_Scenes\\MiniGame.unity.
