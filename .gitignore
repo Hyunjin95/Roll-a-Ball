@@ -46,10 +46,12 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Files and Directories that is not necessary on Unity
+# Files and Directories that is not necessary on Unity & Visual Studio
 Library
 Temp
 *.pidb
 *.unityproj
-*..sln
+*.sln
+*.csproj
 *.userprefs
+*.suo
